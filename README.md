@@ -44,4 +44,4 @@ pip install -r requirements.txt
 [ссылка на google drive](https://drive.google.com/file/d/1tzAig_HXQy1GvH_ojaqh_-ghAXu-2mz1/view?usp=sharing)
 
 # Запустить ноутбук
-jupyter notebook EDA_Project_3_model_new.ipynb
+jupyter notebook EDA_Project_3_model.ipynb
