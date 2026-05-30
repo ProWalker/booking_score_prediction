@@ -33,14 +33,15 @@ RandomForestRegressor(n_estimators=100, random_state=42)
 
 ## Установка и запуск
 
-```bash
 # Клонировать репозиторий
-git clone https://github.com/your-username/hotel-review-score-prediction.git
+git clone https://github.com/your-username/hotel-review-score-prediction.git  
 cd hotel-review-score-prediction
 
 # Установить зависимости
 pip install -r requirements.txt
 
+# Скачать датасет и закинуть его в папку data
+[ссылка на google drive](https://drive.google.com/file/d/1tzAig_HXQy1GvH_ojaqh_-ghAXu-2mz1/view?usp=sharing)
+
 # Запустить ноутбук
 jupyter notebook EDA_Project_3_model_new.ipynb
-```
